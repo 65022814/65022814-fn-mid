@@ -1,0 +1,59 @@
+body {
+    height: 100%;
+  }
+  
+  body {
+    padding-top: 5rem;
+    background-color: #f5f5f5;
+  }  
+
+.signln-1{
+    max-width: 60rem;
+    margin: auto;
+}
+.img-1{
+    float: left;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+.email-1{
+    width: auto;
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.login-g{
+     width: auto;
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.login{
+    background-color:grey;
+    color: white;
+    padding: 5px 70px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: auto;
+    box-sizing: border-box;
+}
+.login-g{
+    color: gray;
+    padding: 5px 40px;
+    border: none;
+    cursor: pointer;
+    margin: 20px 0;
+}
+.signin-g{
+    background-color:white;
+    color: gray;
+    padding: 5px 30px;
+    border: 1px;
+    margin: 10px 0;
+    cursor: pointer;
+    width: auto;
+    box-sizing: border-box;
+}

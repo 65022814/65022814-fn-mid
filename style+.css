@@ -1,0 +1,23 @@
+header{
+    background-color: blueviolet;
+    height: 50px;
+    width: auto;
+    padding: 0.5%;
+}
+.img-p{
+    height: 50px;
+    clear: left;
+}
+.text-1{
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    clear: left;
+}
+table{
+    border-collapse: collapse;
+    width: 90%;
+    margin-left: 5%;
+}
+table,td,th{
+    border: 1px solid black;
+}
